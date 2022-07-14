@@ -1,3 +1,4 @@
+![ Utk's Purple Gradient Profile Github Banner](Img/utkgithub.png)
 ### Hi there 👋
 
 <!--
