@@ -1,4 +1,4 @@
-# Hi, I'm Utkarsh 👋🏾 
+# Hi, I'm Utkarsh 👋🏾 👨🏽‍💻
 
 ![ Utk's Purple Gradient Profile Github Banner](Img/utkgithub.png)
 
