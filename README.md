@@ -1,5 +1,7 @@
+# Hi, I'm Utkarsh 👋🏾 
+
 ![ Utk's Purple Gradient Profile Github Banner](Img/utkgithub.png)
-### Hi there 👋
+
 
 <!--
 **utkarshsingx/utkarshsingx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Watch my contributions get eaten by a snake 🐍
+## Watch my contributions get eaten by a snake 🐍
 
 ![snake gif](https://github.com/utkarshsingx/utkarshsingx/blob/output/github-contribution-grid-snake.gif)
