@@ -19,3 +19,4 @@
 ## Watch my contributions get eaten by a snake 🐍
 
 ![snake gif](https://github.com/utkarshsingx/utkarshsingx/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/utkarshsingx/utkarshsingx/blob/output/github-contribution-grid-snake.svg)
