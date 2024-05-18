@@ -22,5 +22,6 @@
   
 ## Watch my contributions get eaten by a snake 🐍
 
-![Snake animation](https://github.com/utkarshsingx/utkarshsingx/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/utkarshsingx/utkarshsingx/output/snake.svg" alt="Snake animation" />
+
 
