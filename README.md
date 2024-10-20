@@ -1,4 +1,4 @@
-# Hi, I'm Utkarsh 👋🏾 👨🏽‍💻
+# Hello, I'm Utkarsh 👋🏾 👨🏽‍💻
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/utkarshsingx?label=Follow)](https://twitter.com/intent/follow?screen_name=utkarshsingx)
 [![Linkedin: Utkarsh](https://img.shields.io/badge/-Utkarsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/utkarsh-singh-0b9090227/)](https://www.linkedin.com/in/utkarsh-singh-0b9090227/)
