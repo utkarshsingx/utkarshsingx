@@ -11,9 +11,16 @@
 
 <img alt="Night Coding" src="https://github.com/utkarshsingx/utkarshsingx/assets/92610758/e7ed4589-4135-47b2-9129-664da4bacb30" align="right" width="250" height="200" />
 
-🎓 &nbsp;I'm currently studying Computer Science Engineering at Galgotias College of Engineering and Technology, Greater Noida.\
-💡 &nbsp;Some technologies I enjoy working with include Photoshop, Adobe Illustrator, Indesign and XD. Currently exploring UI/UX.\
-🌱 &nbsp;I'm on track for learning more about ReactJS, JavaScript, NodeJS and ExpressJS, Competitive Programming, and Algorithms.\
+🎨 I began with design, Photoshop, Illustrator, XD, learning how perception forms before understanding does. Interfaces were not just visual; they were behavioral.
+
+💡 Somewhere along the way, the focus shifted. From appearance to structure. From what is seen to what operates beneath it. I now build systems- working across React, React Native, Node.js, and exploring Django with Python— trying to understand not just how things run, but why they hold.
+
+🧠 My interests are drawn toward applied AI and machine learning, particularly where systems intersect with human states— mental health, decision-making, and patterns hidden inside data. LLMs, real-world datasets, and intelligent architectures are less tools, more questions.
+
+🌱 I am currently working on AI-driven mental health system— part product, part investigation, alongside building scalable systems that attempt to reflect reality, not simplify it. Systems function. That is expected. Meaning is less certain. That gap is where I work.
+
+🌀 *Chaos is not a pit, Chaos is a ladder. -littlefinger*
+
 ✉️ &nbsp;You can shoot me an email at [Utkarsh](mailto:hauntedutkarsh@gmail.com). I'll try to respond as soon as I can!
 
 
