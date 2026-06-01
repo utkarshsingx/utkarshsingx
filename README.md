@@ -19,7 +19,7 @@
 
 🌱 I am currently working on AI-driven mental health system— part product, part investigation, alongside building scalable systems that attempt to reflect reality, not simplify it. Systems function. That is expected. Meaning is less certain. That gap is where I work.
 
-🌀 *Chaos is not a pit, Chaos is a ladder. -littlefinger*
+🌀 *But, you there--- remember to touch some grass ^-^. -probably me*
 
 ✉️ &nbsp;You can shoot me an email at [Utkarsh](mailto:hauntedutkarsh@gmail.com). I'll try to respond as soon as I can!
 
